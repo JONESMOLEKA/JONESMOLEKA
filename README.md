@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **JONESMOLEKA/JONESMOLEKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
