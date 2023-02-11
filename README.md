@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-**JONESMOLEKA/JONESMOLEKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Jonas Moleka.
 
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - 🔭 I’m currently working on a Creating Devops related tech resourses 
@@ -46,13 +45,15 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeekshithSN&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JONESMOLEKA&show_icons=true&hide_border=true" />
 
+
+[linkedin]: https://www.linkedin.com/in/jonas-moleka/
+<!--
 [facebook]: https://www.facebook.com/sugaturdeekshith.sn
 [twitter]: https://twitter.com/deekshithsn
 [youtube]: https://www.youtube.com/channel/UCKtpGolsdYJeakyMr3PoRmQ
 [instagram]: https://www.instagram.com/deekshithsn/
-[linkedin]: https://www.linkedin.com/in/deekshith-sn-972532a1/
 [unix_shell_playlist]: https://www.youtube.com/watch?v=IxApf1YtkJU&list=PLLYW3zEOaqlIwDc-5GnP74PUIo0nrnYgg
 [dockerplaylist]: https://www.youtube.com/watch?v=GOJ5ICKyzoA&list=PLLYW3zEOaqlKjN4o2FyD7lQGD1i0rzKgF
 [kubernetesplaylist]: https://www.youtube.com/watch?v=OiOjZjtXsnY&list=PLLYW3zEOaqlLrc4VGtUuInis1N30e3PIm
